@@ -19,7 +19,7 @@ Although it can detect more faces/masks in the same scene, the best result is st
 | ssd_mobilenet_v2_fpnlite.tflite | 6.3 FPS | 5.8 FPS |
 
 
-Special made for a Jetson Nano see [Q-engineering deep learning examples](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html) <br/>
+Special made for a Raspberry Pi 4 see [Q-engineering deep learning examples](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html) <br/>
 
 ------------
 
