@@ -1,3 +1,4 @@
+![output image](https://qengineering.eu/images/SDcard16GB_tiny.jpg) Find this example on our [SD-image](https://github.com/Qengineering/RPi-image)
 # TensorFlow_Lite_Face_Mask_RPi_64-bits
 ![output image]( https://qengineering.eu/images/Mask_2_RPi.jpg )<br/>
 ## TensorFlow Lite Face Mask detection running on a bare Raspberry Pi 4.
