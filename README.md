@@ -36,7 +36,7 @@ To run the application, you have to:
 To extract and run the network in Code::Blocks <br/>
 $ mkdir *MyDir* <br/>
 $ cd *MyDir* <br/>
-$ wget https://github.com/Qengineering/TensorFlow_Lite_Face_Mask_RPi_64-bits/archive/refs/heads/master.zip <br/>
+$ wget https://github.com/Qengineering/TensorFlow_Lite_Face_Mask_RPi_64-bits/archive/refs/heads/main.zip <br/>
 $ unzip -j master.zip <br/>
 Remove master.zip, LICENSE and README.md as they are no longer needed. <br/> 
 $ rm master.zip <br/>
