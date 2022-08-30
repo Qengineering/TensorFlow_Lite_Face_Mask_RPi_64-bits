@@ -106,7 +106,7 @@ void detect_from_video(Mat &src)
                 //only the first face is used, all others are ignored.
                 digitalWrite(PIN_MASK, (det_index==0)? HIGH : LOW);  //mask
                 digitalWrite(PIN_NO_MASK, (det_index==1)? HIGH : LOW);  //no mask
-                digitalWrite(PIN_WRONG_WEAR, (det_index==2)? HIGH : LOW);  //wear incorrect
+                digitalWrite(PIN_WRONG_WORN, (det_index==2)? HIGH : LOW);  //worn incorrect
                 done=true;
             }
 #endif // GPIO
