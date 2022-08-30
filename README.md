@@ -67,6 +67,10 @@ If you want to run a movie please alter line 130 in main.cpp to<br/>
 https://www.kaggle.com/andrewmvd/face-mask-detection<br/>
 https://github.com/tanhouren/Face_mask_detector<br/>
 
+------------
+
+[![paypal](https://qengineering.eu/images/TipJarSmall4.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CPZTM5BB3FCYL)<br>
+
 ![output image]( https://qengineering.eu/images/Mask_5_RPi.jpg )<br/>
 ![output image]( https://qengineering.eu/images/Mask_1_RPi.jpg )<br/>
 ![output image]( https://qengineering.eu/images/Mask_49_RPi.jpg )
