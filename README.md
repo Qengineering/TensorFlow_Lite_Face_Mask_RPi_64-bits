@@ -10,6 +10,8 @@ The network used is a re-trained MobileNet V2 SSD. It has three classes: no maks
 It's not the usual cascade of the two deep learning models, one face recognition and a second one that detects the masks.<br/>
 This one model now recognizes not only the white masks, but also the black, colored and fancy masks.<br/> 
 Although it can detect more faces/masks in the same scene, the best result is still one face in front of the camera.<br/>
+### Update 8-29-2022. 
+- Added GPIO outputs.
 
 ------------
 
