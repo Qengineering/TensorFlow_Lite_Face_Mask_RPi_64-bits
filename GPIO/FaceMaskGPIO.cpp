@@ -16,7 +16,7 @@
 //pin numbers refer to WiringPi, not the I/O pins on RPi header.
 #define PIN_MASK 7
 #define PIN_NO_MASK 0
-#define PIN_WRONG_WEAR 2
+#define PIN_WRONG_WORN 2
 
 #ifdef GPIO
 #include <wiringPi.h>
@@ -131,10 +131,10 @@ int main(int argc,char ** argv)
     else{
         pinMode(PIN_MASK,OUTPUT);
         pinMode(PIN_NO_MASK,OUTPUT);
-        pinMode(PIN_WRONG_WEAR,OUTPUT);
+        pinMode(PIN_WRONG_WORN,OUTPUT);
         digitalWrite(PIN_MASK, LOW);
         digitalWrite(PIN_NO_MASK, LOW);
-        digitalWrite(PIN_WRONG_WEAR, LOW);
+        digitalWrite(PIN_WRONG_WORN, LOW);
     }
 
 #endif // GPIO
